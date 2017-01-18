@@ -1830,6 +1830,7 @@ return [
         'Latest products' => 'Новые товары',
         'Next product' => 'Следующий товар',
         'No products available in this category' => 'Нет товаров в этой категории',
+        'Placeholder contact email' => 'Чтобы мы могли связаться с вами',
         'Placeholder phone' => 'Контактный телефон',
         'Postage' => 'Почтовые расходы',
         'Previous product' => 'Предыдущий товар',
